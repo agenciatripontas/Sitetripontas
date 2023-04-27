@@ -1,0 +1,694 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,700;1,500&display=swap');
+
+
+
+
+
+* { 
+	
+margin:0%;
+margin-top: 0;
+}
+
+#centralizadorcontato {
+	
+text-align: center;	
+	
+	
+}
+
+
+#conteudocontato{
+	
+width: 100%;
+height: auto;
+overflow: auto;
+}
+
+
+#conteudoportfolio {
+	
+	
+width: 100%;
+height: auto;
+overflow: auto;
+background-color: #31AD68;	
+	
+	
+}
+
+#centralizadorportfolio {
+	
+text-align: center;
+	
+	
+	
+}
+
+#marketingconteudo {
+
+	margin-top: 3%;
+	
+	
+}
+
+#audiovisual {
+	
+	margin-top: 3%;
+	
+}
+
+#designgraficoport {
+	
+	margin-top: 3%;
+	margin-bottom: 8%;
+	
+	
+}
+
+#centralizadorrodape {
+width: 100%;
+height: auto;
+overflow: auto;
+background-color: #e94f1d;		
+	
+	
+}
+
+
+
+#centralizadorclientestexto{
+max-width: 1100px;
+	
+overflow: auto	
+}
+
+
+#conteudoclientes {
+width: 100%;
+height: auto;
+overflow: auto;
+background-color: #31AD68;	
+	
+}
+
+
+#conteudosobre {
+	
+width: 100%;
+height: auto;
+overflow: auto;
+background-color: #31AD68;		
+
+}
+
+#centralizadorsobre{
+	
+max-width: 1100px;
+height: auto;	
+	
+	margin: auto;	
+	
+}
+
+#conteudotextosobre{
+width: auto	;
+height: auto;
+overflow: auto;	
+background-color: blues;
+}
+
+#imagemsobre{
+width: 46%;
+height: 46%;
+
+background-color: red;	
+	
+}
+
+#conteudosobre img {
+float: left;
+    margin-left: 9%;
+    margin-top: 6%;
+    margin-bottom: 8%;	
+}
+
+#conteudosobre p {
+float: left;
+    text-align: left;
+    font-size: 17px;
+    margin-top: 2%;
+    margin-left: 3%;	
+}
+#conteudosobre h1 {
+float: left;
+    text-align: left;
+    font-size: 35px;
+    margin-top: 35%;
+    margin-left: 3%;	
+}
+
+#conteudoclientes {
+width: 100%;
+height: auto;
+overflow: auto;
+background-color: #31AD68;	
+	
+	
+	
+	
+}
+
+
+#conteudopacote {
+	
+width: 100%;
+height: auto;
+overflow: auto;
+background-color: #31AD68;	
+	
+	
+}
+
+
+
+
+#conteudoservico {
+	
+width: 100%;
+height: auto;
+overflow: auto;
+background-color: #e94f1d;	
+	
+	
+}
+
+#conteudobanner{
+	width: 100%;
+	height: auto;
+	overflow: auto;
+	background-color: #e94f1d;
+}
+#conteudo{
+	overflow: auto;
+	width: 1100px;
+	min-height: 735px;
+	background-color: red;
+	  margin: 0 auto;
+}
+
+#topo {
+width: 100%;
+height: 110px;	
+min-width: 735px;
+background-color:#31AD68;
+margin-top: 0;	
+	
+}
+
+
+
+
+#menu ul {
+	
+	float:left;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	
+}
+
+
+	#menu li {
+	/*display: inline-block; /* visual do link */
+		float: left;
+   	text-decoration: none; 
+	padding: 2px 46px;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+		height: 96px;
+		padding-top: 10px;
+		list-style: none;
+		line-height: 96px;
+	}
+#logolista{
+	padding-top: -10px;
+}
+
+	a 	{
+   		text-decoration: none;
+		color: currentColor;
+		}
+
+#menu {
+	max-width: 765px;
+	height: 110px;
+	text-align: center;
+	margin: auto;
+	
+	}
+
+	
+
+body { 
+	
+margin:0%;
+margin-top: 0;
+
+}
+
+
+
+
+#banner1 {
+	
+max-width: 1100px;
+height: auto;	
+	
+	margin: auto;
+}
+
+
+#servicosindex1 {
+max-width:1100px;
+height: 315px;	
+min-width: 735px;	
+background-color:#E94F1D;	
+margin:auto;	
+}
+
+#servicosindex2 {
+width: 1100px;
+height: 382px;	
+min-width: 735px;	
+background-color:#E94F1D;	
+margin:auto;
+}
+	
+
+.caixaserv {
+float: left;	
+width: 27%;	
+
+
+	
+}
+
+#caixa1{
+margin-top: 8%;	
+
+text-align: center;
+margin-left: 3%;	
+
+
+}
+
+#textofalamossualingua{
+	
+font-family: 'Montserrat', sans-serif;	
+font-size: 30px;	
+color: white;
+text-align: left;
+
+margin: 10px;
+margin-top: 19px;		
+}
+
+#centralizadormenu {
+	
+margin: auto;
+	
+}
+
+#caixa2{
+	
+
+text-align: center;
+margin-top: 8%;
+margin-left: 7%;	
+}
+
+#textoomarketing{
+	
+font-family: 'Montserrat', sans-serif;	
+font-size: 21px;	
+color: white;
+text-align: left;
+
+margin: 10px;
+margin-top: 19px;		
+}
+
+#caixa3{
+	
+
+text-align: center;
+margin-top: 10%;
+margin-left: 9%;
+	
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;		
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;		
+}
+
+.button1 {
+  background-color: white; 
+  color: #E94F1D; 
+  border: 10px;
+border-radius: 15px;	
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
+#caixa4{
+	
+float: left;	
+	
+}
+
+#logodesignergrafico{
+	
+
+width: 37%;
+margin-left: 31%;
+	
+}
+
+#designergrafico{
+
+width: 50%;
+margin-left: 26%;	
+
+}
+
+.tituloservicos {
+font-family: 'Montserrat', sans-serif;	
+font-size: 30px;	
+color: white;
+text-align: center;	
+	
+	
+}	
+
+.textoservicos {
+	
+font-family: 'Montserrat', sans-serif;	
+font-size: 14px;	
+color: white;
+text-align: center;
+	
+}
+
+#centralizadorcaixa4 {
+
+width: 100%;
+margin-top: 22px;
+	
+	
+}
+
+#centralizadorcaixa5 {
+
+width: 100%;
+margin-top: 22px;
+	
+	
+}
+
+#caixa5 {
+float: left;	
+margin-left: 9%;	
+
+	
+}
+
+#caixa6{
+
+float: left;	
+margin-left: 6%;	
+	
+}
+
+#centralizadorcaixa6 {
+
+width: 100%;
+margin-top: 22px;	
+	
+}
+
+#logoaudiovisual{
+	
+
+width: 37%;
+margin-left: 31%;
+	
+}
+
+#logomarketing{
+	
+
+width: 37%;
+margin-left: 31%;
+	
+}
+
+#escolhaseupacote {
+float: left;	
+width: 100%;
+background-color: #31AD68;
+height: 200px;	
+	
+}
+
+#escolhaseupacote h1 {
+font-family: 'Montserrat', sans-serif;		
+font-size: 58px;
+color:white;
+margin-bottom: -10%;
+margin-top: 6%;
+
+}
+
+#escolhaseupacote p {
+	
+margin-bottom: -10%;
+margin-top: 10%;	
+}
+
+#pacotes {
+	
+max-width:1100px;
+background-color: #31AD68;
+height: 919px;
+margin: auto;	
+}
+
+
+
+
+#pacotes1 {
+    float: left;
+    margin-left: 2%;
+    margin-top: 9%;
+    
+}
+
+#pacotes2 {
+    float: left;
+    margin-left: 1%;
+    margin-top: 9%;
+   
+}
+
+#pacotes3 {
+    float: left;
+    margin-left: 1%;
+    margin-top: 9%;
+    
+}
+
+#feedback {
+	max-width: 1100px;
+    height: 639px;
+    background-color: #31AD68;
+    margin: auto;	
+}
+
+
+#clientessatisfeitos {
+	
+margin: auto;
+width: 1100px;
+overflow: auto;	
+background-color: #31AD68;	
+}
+
+
+
+
+#clientessatisfeitos h1 {
+	
+color: white;
+font-family: 'Montserrat', sans-serif;	
+font-size: 40px;		
+text-align:center;	
+height:85px;
+margin-top: 6%;	
+}
+
+#imagemfeedback {
+margin-top: -18%;	
+max-width: 1100px;
+margin: auto;	
+}
+
+#cliente1{
+	
+	float: left;
+    width: 21%;
+    margin-left: 5%;	
+
+	
+}
+
+#cliente2 {
+	
+	
+	float: left;
+    width: 23%;
+    margin-left: 11%;
+		
+	
+}
+
+#cliente3 {
+	
+	
+    float: left;
+    width: 26%;
+    margin-left: 11%;	
+
+		
+	
+}
+
+
+#nossosclientes {
+	
+overflow: auto;
+max-width: 1100px;
+    height: auto;	
+background-color: #31AD68;	
+margin: auto;
+margin-top: -7%;	
+}
+
+#nossosclientes h1 {
+	
+	color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    height: 55px;	
+}
+
+#imagemnossosclientes{
+	margin: auto;
+    max-width: 1100px;
+    height: auto;
+    overflow: auto;
+    margin-bottom: 55px;
+	text-align: center;
+}
+	
+
+
+#rodape{
+	max-width: 1100px;
+    height: auto;
+    overflow: auto;
+    background-color: #e94f1d;
+    margin: auto;
+}
+
+#logorodape{
+float: left;
+    margin-top: 3%;
+    margin-left: 24%;
+}
+
+#textorodape {
+	margin-bottom: 3%;
+    float: left;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+	
+	
+
+
+#textorodape h1 {
+font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: white;
+    
+}
+	
+#textorodape p {
+	font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: white;
+    
+}	
+
+#instagram{
+	width: 40px;
+    height: 40px;
+	margin-left: 46%;
+}
+
+#whatsapp{
+	width: 40px;
+    height: 40px;
+	margin-left: 42%;
+}
+
+
+	
+

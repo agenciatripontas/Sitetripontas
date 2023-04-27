@@ -1,0 +1,341 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,700;1,500&display=swap');
+
+
+
+#logolista img {
+width:100%; 	
+	
+}
+
+
+body{
+	margin: 0;
+}
+
+#topo{
+	width: 100%;
+}
+
+
+#topo {
+background-color: #31AD68;		
+	
+}
+
+#centralizadormenu {
+	width: 100%;
+text-align: center;
+background-color: #31AD68;	
+}
+
+ul{
+	padding: 0;
+}
+#menu ul {
+	
+	float:left;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	
+	
+}
+
+
+	#menu li {
+	/*display: inline-block; /* visual do link */
+		    float: left;
+    padding: 16px 5px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    height: 83px;
+    padding-top: 10px;
+    line-height: 96px;
+    text-decoration: none;
+    list-style: none;
+    width: 17%;
+    font-size: 11px;
+
+	}
+
+a 	{
+   		text-decoration: none;
+		color: currentColor;
+		}
+
+#menu {
+	width: 100%;
+    height: 110px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-left: 0;
+    list-style: none;
+	}
+
+
+
+
+
+
+
+
+#conteudobanner{
+	width: 100%;
+	overflow: auto;
+	background-color: #e94f1d;
+	float: left;
+}
+
+#banner1{
+height: auto;
+	
+}
+
+#banner1 img{
+
+	
+	float: left;
+}
+
+
+#conteudoservico {
+	
+width: 100%;
+height: auto;
+overflow: auto;
+background-color: #e94f1d;	
+	
+	
+}
+
+#caixa1{
+color: white;
+width: 100%;
+text-align: center;
+font-family: 'Montserrat', sans-serif;	
+font-size: 15px;
+background-color: #E94F1D;
+height: 100%;
+	
+	
+}
+
+#caixa2{
+	
+
+color: white;
+width: 100%;
+text-align: center;
+font-family: 'Montserrat', sans-serif;	
+font-size: 15px;
+background-color: #E94F1D;
+height: 100%;		
+margin-bottom: 10%;	
+margin-top: 10%;	
+
+}
+
+#caixa3{
+	
+background-color: #E94F1D;
+text-align: center;
+margin-top: 10%;
+margin-bottom: 10%;	
+
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;		
+}
+
+.button1 {
+  background-color: white; 
+  color: #E94F1D; 
+  border: 10px;
+border-radius: 15px;	
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#caixa4{
+	
+
+text-align: center;
+font-family: 'Montserrat', sans-serif;	
+font-size: 15px;	
+color: white;		
+}
+
+#caixa5 {
+	
+
+text-align: center;	
+font-family: 'Montserrat', sans-serif;	
+font-size: 15px;	
+color: white;	
+}
+
+#centralizadorcaixa5{
+	
+text-align: center;		
+	
+}
+
+#caixa6 {
+	
+
+text-align: center;	
+font-family: 'Montserrat', sans-serif;	
+font-size: 15px;	
+color: white;	
+}
+
+#escolhaseupacote {
+	
+width: 100%;
+background-color: #31AD68;
+font-family: 'Montserrat', sans-serif;	
+font-size: 15px;
+color: white;
+text-align: center;
+overflow: auto;	
+}
+
+#conteudopacote {
+width: 100%;
+background-color: #31AD68;	
+overflow: auto;	
+	
+}
+
+#pacotes {
+text-align: center;
+	
+}
+
+#clientessatisfeitos {
+	
+text-align: center;
+width: 100%;
+overflow: auto;	
+background-color: #31AD68;
+font-family: 'Montserrat', sans-serif;	
+font-size: 15px;
+color: white;	
+}
+
+#cliente1{
+	
+background-color: #31AD68;	
+text-align: center;	
+font-family: 'Montserrat', sans-serif;	
+font-size: 15px;
+color: white;
+height: 370px;	
+}
+
+#cliente2 {
+
+background-color: #31AD68;		
+text-align: center;
+font-family: 'Montserrat', sans-serif;	
+font-size: 15px;
+color: white;
+height: 420px;
+}
+
+#cliente3 {
+	text-align: center;
+	background-color: #31AD68;
+	font-family: 'Montserrat', sans-serif;	
+	font-size: 15px;
+	color: white;
+	height: 420px;	
+	
+}
+
+#nossosclientes{
+	
+    text-align: center;
+    width: 100%;
+    overflow: auto;
+    background-color: #31AD68;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: white;	
+	
+	
+}
+
+#imagemnossosclientes {
+text-align: center;
+background-color: #31AD68;	
+	
+}
+
+#rodape {
+	
+	background-color: #E94F1D;	
+	font-family: 'Montserrat', sans-serif;	
+	font-size: 15px;
+	color: white;
+	height: 400px;
+}
+
+#logorodape {
+text-align: center;
+	
+}
+
+#textorodape {
+text-align: center;	
+	
+}
+
+
+#conteudosobre {
+background-color: #31AD68;	
+	
+}
+
+#centralizadorsobre {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;	
+	font-size: 15px;
+	color: white;
+	height: 780px;
+}
+
+#conteudoportfolio {
+	
+background-color: #31AD68;		
+text-align: center;
+	
+	
+}
+
+#imagemsobre img {
+	
+    width: 360px;
+	
+}
